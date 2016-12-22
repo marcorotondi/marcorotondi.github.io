@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is my Blog
-
-I'm Marco rotondi a Java developer since 2008.
+I'm Marco Rotondi a Java developer since 2008.
